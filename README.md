@@ -16,7 +16,7 @@ Software
 
 
 
-If you would like to have a live demonstraion or an offer, please contact support@murrelektronik.de  
+If you would like to have a live demonstraion or an offer, please contact vario-x@murrelektronik.de  
 -
 
 
