@@ -5,7 +5,7 @@ Hardware:
 - Vario-X V000-ASSY0-xxxxxxxx
 - 54612 / 54632 IO-Link Master EtherCAT
 - Cabeling (M12 L / D / X / A)
-- IO-Link Devices (Murrellektronik) e.g. Comlight56 (ArtNo. 4000-76056-0000001), IO-Link Device two buttons (ArtNo. 69202), ...
+- IO-Link Devices (Murrelektronik) e.g. Comlight56 (ArtNo. 4000-76056-0000001), IO-Link Device two buttons (ArtNo. 69202), ...
 - optional 24VDC PowerSupply (Emparro IP67 ArtNo. 85678)  
 
 Software
