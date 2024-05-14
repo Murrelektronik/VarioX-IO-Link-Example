@@ -12,7 +12,8 @@ Software
 - Codesys Vario-X package -> ask support@murrelektronik.de
 
 
-![image](https://github.com/Murrelektronik/VarioX-IO-Link-Example/assets/90257053/5a5b3cfa-a88d-401f-990e-7cde79032390)
+![image](https://github.com/Murrelektronik/VarioX-IO-Link-Example/assets/90257053/ef8fa6df-e591-48a2-8428-e8be647047a2)
+
 
 
 
